@@ -7,4 +7,8 @@ public class HelloGit {
         // 第一次修改
         // 第二次修改
     }
+    
+    public static void sayHello(){
+        System.out.println("hello");
+    }
 }
